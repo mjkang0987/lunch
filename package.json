@@ -1,0 +1,22 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "lunch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mjkang0987/lunch.git"
+  },
+  "author": "mjkang0987",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mjkang0987/lunch/issues"
+  },
+  "homepage": "https://github.com/mjkang0987/lunch#readme",
+  "dependencies": {
+    "slack-node": "^0.1.8"
+  }
+}

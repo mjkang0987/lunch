@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/mjkang0987/lunch#readme",
   "dependencies": {
+    "node-schedule": "^2.0.0",
     "slack-node": "^0.1.8"
   }
 }

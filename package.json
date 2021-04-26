@@ -1,23 +1,23 @@
 {
-  "name": "package.json",
-  "version": "1.0.0",
-  "description": "lunch",
+  "name": "lunch",
+  "version": "0.0.0",
+  "description": "slack lunch bot",
   "main": "index.js",
+  "dependencies": {
+    "@slack/web-api": "^6.1.0"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mjkang0987/lunch.git"
+    "url": "git+https://github.com/mjkang0987/slack.bot.git"
   },
-  "author": "mjkang0987",
+  "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mjkang0987/lunch/issues"
+    "url": "https://github.com/mjkang0987/slack.bot/issues"
   },
-  "homepage": "https://github.com/mjkang0987/lunch#readme",
-  "dependencies": {
-    "node-schedule": "^2.0.0",
-    "slack-node": "^0.1.8"
-  }
+  "homepage": "https://github.com/mjkang0987/slack.bot#readme"
 }
